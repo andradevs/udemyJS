@@ -1,1 +1,1 @@
-#Curso Udemy JavaScripr
+#Curso Udemy JavaScript
