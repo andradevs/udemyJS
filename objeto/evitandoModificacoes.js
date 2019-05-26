@@ -21,4 +21,4 @@ delete pessoa.nome
 pessoa.idade = 29
 console.log(pessoa)
 
-// Object.freeze == selado + variaveis constantes
+// Object.freeze == selado + variaveis constantes   
